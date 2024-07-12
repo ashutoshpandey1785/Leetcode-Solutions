@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
