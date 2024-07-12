@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
