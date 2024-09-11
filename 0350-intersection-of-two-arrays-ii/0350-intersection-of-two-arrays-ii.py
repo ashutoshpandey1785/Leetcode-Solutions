@@ -9,7 +9,8 @@ class Solution:
                 i+=1
             elif nums1[i]>nums2[j]:
                 j+=1
-            else:
+                # now check for equal condition
+            else:   
                 ans.append(nums1[i])
                 i+=1
                 j+=1
