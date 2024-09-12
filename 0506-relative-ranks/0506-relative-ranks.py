@@ -3,13 +3,13 @@ class Solution:
         order=sorted(score,reverse=True)
         ans=[]
         for i in score:
-            pos=order.index(i)
-            if pos==0:
+            pos=order.index(i)+1
+            if pos==1:
                 ans.append("Gold Medal")
-            elif pos==1:
-                ans.append("Silver Medal")
             elif pos==2:
+                ans.append("Silver Medal")
+            elif pos==3:
                 ans.append("Bronze Medal")
             else:
-                ans.append(str(pos+1))
+                ans.append(str(pos))
         return ans
