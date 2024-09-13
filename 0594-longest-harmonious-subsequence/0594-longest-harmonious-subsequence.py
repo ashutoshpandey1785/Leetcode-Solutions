@@ -6,5 +6,5 @@ class Solution:
         max_len=0
         for i in c:
             if i+1 in c:
-                max_len = max(max_len, c[i] + c[i + 1])
+                max_len = max(max_len, c[i]+ c[i + 1])
         return max_len
