@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0944-smallest-range-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Dynamic Programming
 |  |
