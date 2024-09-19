@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
