@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 ## Stack
 |  |
 | ------- |
