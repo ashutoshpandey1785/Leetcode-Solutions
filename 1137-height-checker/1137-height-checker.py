@@ -5,4 +5,4 @@ class Solution:
         for i in range(len(sort_hight)):
             if sort_hight[i]!=heights[i]:
                 c+=1
-        return c+1
+        return c
