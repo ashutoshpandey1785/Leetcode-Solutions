@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -238,10 +239,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Geometry
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
