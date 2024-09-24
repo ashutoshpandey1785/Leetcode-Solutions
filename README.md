@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
