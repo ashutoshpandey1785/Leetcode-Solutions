@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
