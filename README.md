@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [0983-validate-stack-sequences](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0983-validate-stack-sequences](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
+| [0983-validate-stack-sequences](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Geometry
 |  |
