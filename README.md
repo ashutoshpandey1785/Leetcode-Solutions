@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0782-jewels-and-stones](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
