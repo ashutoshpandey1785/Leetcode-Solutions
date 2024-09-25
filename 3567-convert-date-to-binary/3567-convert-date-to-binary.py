@@ -1,9 +1,9 @@
 class Solution:
     def convertDateToBinary(self, date: str) -> str:
-        st = date.split('-')
+        
         res = []
 
-        for char in st:
+        for char in date.split('-'):
             b = bin(int(char))
             res.append(b[2:])
         
