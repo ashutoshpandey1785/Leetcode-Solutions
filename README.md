@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
