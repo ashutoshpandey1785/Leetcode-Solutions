@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [1115-valid-boomerang](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2556-convert-the-temperature](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Monotonic Stack
