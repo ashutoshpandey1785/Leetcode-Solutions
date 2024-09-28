@@ -7,4 +7,4 @@ class Solution:
             s1.append(s)
         for i in range(len(s1)):
             r = r ^ s1[i]
-        return r-1
+        return r
