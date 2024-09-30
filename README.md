@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [1651-shuffle-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
