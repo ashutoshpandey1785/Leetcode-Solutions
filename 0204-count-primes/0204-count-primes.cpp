@@ -8,7 +8,7 @@ public:
             if(isprime[i]){
                 cnt++;
                 for(int j=2*i;j<n;j+=i){
-                    isprime[j]=0;
+                    isprime[j]=false;
                 }
             }
 
