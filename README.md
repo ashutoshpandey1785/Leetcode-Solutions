@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0983-validate-stack-sequences](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1806-count-of-matches-in-tournament](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1525-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
