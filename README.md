@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2401-count-asterisks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2401-count-asterisks) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 ## Geometry
 |  |
