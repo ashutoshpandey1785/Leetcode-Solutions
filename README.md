@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3567-convert-date-to-binary](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
 |  |
