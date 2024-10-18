@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1894-merge-strings-alternately](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1651-shuffle-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
