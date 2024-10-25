@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2748-calculate-delayed-arrival-time](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2748-calculate-delayed-arrival-time) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Tree
 |  |
 | ------- |
