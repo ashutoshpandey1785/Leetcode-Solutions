@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1472-increasing-decreasing-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1472-increasing-decreasing-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [1472-increasing-decreasing-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1472-increasing-decreasing-string) |
 | [1651-shuffle-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
