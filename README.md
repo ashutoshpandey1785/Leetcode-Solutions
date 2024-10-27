@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3221-find-the-peaks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [3221-find-the-peaks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
