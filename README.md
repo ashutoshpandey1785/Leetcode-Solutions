@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2825-minimize-string-length](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2401-count-asterisks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2401-count-asterisks) |
+| [2825-minimize-string-length](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
