@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2181-smallest-index-with-equal-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
