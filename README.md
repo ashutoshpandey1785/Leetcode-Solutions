@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3183-find-the-k-or-of-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3183-find-the-k-or-of-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3183-find-the-k-or-of-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3183-find-the-k-or-of-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Monotonic Stack
