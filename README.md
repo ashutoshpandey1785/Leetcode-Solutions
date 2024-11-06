@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -419,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1525-queries-on-a-permutation-with-key) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
