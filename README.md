@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2181-smallest-index-with-equal-value) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Linked List
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1961-maximum-ice-cream-bars](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## String
 |  |
 | ------- |
