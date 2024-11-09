@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1310-watering-plants](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1310-watering-plants) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
