@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
