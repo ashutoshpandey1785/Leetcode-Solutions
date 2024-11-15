@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
