@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0506-relative-ranks) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1137-height-checker) |
