@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
+| [0946-smallest-range-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0983-validate-stack-sequences](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0946-smallest-range-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1137-height-checker) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
+| [0946-smallest-range-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0946-smallest-range-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0946-smallest-range-ii) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1961-maximum-ice-cream-bars](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
