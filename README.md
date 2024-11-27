@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0983-validate-stack-sequences](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1137-height-checker) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1115-valid-boomerang) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0946-smallest-range-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0946-smallest-range-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1961-maximum-ice-cream-bars](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
