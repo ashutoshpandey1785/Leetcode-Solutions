@@ -1,9 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        while "()" in s or "{}" in s or "[]" in s:
-          s=s.replace("()","")
-          s=s.replace("{}","")
-          s=s.replace("[]","")
-        return s==""
-
-        
+        st=[]
+        for i in s:
+            if i in '([{':
+                st.append(i)
+            elif i in ')]}' and  not st:
+                return False
+            elif i==')' and st[-1]!='(':
+                return False
+            elif i==']' and st[-1]!='[':
+                return False
+            elif i=='}' and st[-1]!='{':
+                return False
+            else:
+                st.pop()
+        if not st:
+            return True
+        return False
+                
