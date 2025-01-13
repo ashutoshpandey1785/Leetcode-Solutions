@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
