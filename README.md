@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -507,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0046-permutations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/ashutoshpandey1785/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
